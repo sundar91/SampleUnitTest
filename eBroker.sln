@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{168EC73B-FCDA-48BC-AB39-8550D4070D2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{15C04792-15A7-48C3-9BF9-4F0BF0F723AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker.API", "src\eBroker.API\eBroker.API.csproj", "{DBD08945-D4EE-46B8-AB6F-DB886A4BB78D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker.Services", "src\eBroker.Services\eBroker.Services.csproj", "{FCAC1324-E790-4666-B4CF-E82019B82A2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker.Data", "src\eBroker.Repository\eBroker.Data.csproj", "{595326B1-FF56-4A49-BA41-08226A5E5321}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker.API.Tests", "tests\eBroker.API.Tests\eBroker.API.Tests.csproj", "{9FF95266-C3DC-4D16-B663-714750394F9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker.Services.Tests", "tests\eBroker.Services.Tests\eBroker.Services.Tests.csproj", "{5D00EEC6-3B3D-49CB-A2E7-230507507B3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eBroker.Data.Tests", "tests\eBroker.Repository.Tests\eBroker.Data.Tests.csproj", "{4BE3BC87-B86A-40C2-B687-4F80DB6F16B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD08945-D4EE-46B8-AB6F-DB886A4BB78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD08945-D4EE-46B8-AB6F-DB886A4BB78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD08945-D4EE-46B8-AB6F-DB886A4BB78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD08945-D4EE-46B8-AB6F-DB886A4BB78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAC1324-E790-4666-B4CF-E82019B82A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAC1324-E790-4666-B4CF-E82019B82A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAC1324-E790-4666-B4CF-E82019B82A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAC1324-E790-4666-B4CF-E82019B82A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595326B1-FF56-4A49-BA41-08226A5E5321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595326B1-FF56-4A49-BA41-08226A5E5321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595326B1-FF56-4A49-BA41-08226A5E5321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595326B1-FF56-4A49-BA41-08226A5E5321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF95266-C3DC-4D16-B663-714750394F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF95266-C3DC-4D16-B663-714750394F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF95266-C3DC-4D16-B663-714750394F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF95266-C3DC-4D16-B663-714750394F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D00EEC6-3B3D-49CB-A2E7-230507507B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D00EEC6-3B3D-49CB-A2E7-230507507B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D00EEC6-3B3D-49CB-A2E7-230507507B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D00EEC6-3B3D-49CB-A2E7-230507507B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE3BC87-B86A-40C2-B687-4F80DB6F16B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE3BC87-B86A-40C2-B687-4F80DB6F16B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE3BC87-B86A-40C2-B687-4F80DB6F16B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE3BC87-B86A-40C2-B687-4F80DB6F16B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DBD08945-D4EE-46B8-AB6F-DB886A4BB78D} = {168EC73B-FCDA-48BC-AB39-8550D4070D2E}
+		{FCAC1324-E790-4666-B4CF-E82019B82A2C} = {168EC73B-FCDA-48BC-AB39-8550D4070D2E}
+		{595326B1-FF56-4A49-BA41-08226A5E5321} = {168EC73B-FCDA-48BC-AB39-8550D4070D2E}
+		{9FF95266-C3DC-4D16-B663-714750394F9B} = {15C04792-15A7-48C3-9BF9-4F0BF0F723AA}
+		{5D00EEC6-3B3D-49CB-A2E7-230507507B3F} = {15C04792-15A7-48C3-9BF9-4F0BF0F723AA}
+		{4BE3BC87-B86A-40C2-B687-4F80DB6F16B2} = {15C04792-15A7-48C3-9BF9-4F0BF0F723AA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9012C8A7-DF06-4192-919C-F4F5CB176033}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\bin\Debug\net6.0\eBroker.Data.deps.json
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\bin\Debug\net6.0\eBroker.Data.dll
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\bin\Debug\net6.0\ref\eBroker.Data.dll
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\bin\Debug\net6.0\eBroker.Data.pdb
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\obj\Debug\net6.0\eBroker.Data.csproj.AssemblyReference.cache
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\obj\Debug\net6.0\eBroker.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\obj\Debug\net6.0\eBroker.Data.AssemblyInfoInputs.cache
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\obj\Debug\net6.0\eBroker.Data.AssemblyInfo.cs
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\obj\Debug\net6.0\eBroker.Data.csproj.CoreCompileInputs.cache
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\obj\Debug\net6.0\eBroker.Data.dll
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\obj\Debug\net6.0\ref\eBroker.Data.dll
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Repository\obj\Debug\net6.0\eBroker.Data.pdb

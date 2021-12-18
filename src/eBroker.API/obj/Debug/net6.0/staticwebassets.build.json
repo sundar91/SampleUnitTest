@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wChFu/A+lf/3ynKGN8B+eiRwtJNhQEFmIYqGBYNcH7A=",
+  "Source": "eBroker.API",
+  "BasePath": "_content/eBroker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\bin\Debug\net6.0\eBroker.Services.deps.json
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\bin\Debug\net6.0\eBroker.Services.dll
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\bin\Debug\net6.0\ref\eBroker.Services.dll
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\bin\Debug\net6.0\eBroker.Services.pdb
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\obj\Debug\net6.0\eBroker.Services.csproj.AssemblyReference.cache
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\obj\Debug\net6.0\eBroker.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\obj\Debug\net6.0\eBroker.Services.AssemblyInfoInputs.cache
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\obj\Debug\net6.0\eBroker.Services.AssemblyInfo.cs
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\obj\Debug\net6.0\eBroker.Services.csproj.CoreCompileInputs.cache
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\obj\Debug\net6.0\eBroker.Services.dll
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\obj\Debug\net6.0\ref\eBroker.Services.dll
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\obj\Debug\net6.0\eBroker.Services.pdb
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\bin\Debug\net6.0\eBroker.Data.dll
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\bin\Debug\net6.0\eBroker.Data.pdb
+D:\Projects\nagp assignments\Unit Testing\eBroker\src\eBroker.Services\obj\Debug\net6.0\eBroker.Services.csproj.CopyComplete
